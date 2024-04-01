@@ -183,6 +183,21 @@ export const extraRpcs = {
         tracking: "none",
         trackingDetails: privacyStatement.getblock,
       },
+	       {
+        url: "https://go.getblock.io/0fb6ed329ba4446eb505aa9ce080e0ea",
+        tracking: "none",
+        trackingDetails: privacyStatement.getblock,
+      },
+	           {
+        url: "https://flashy-little-spree.quiknode.pro/9317c0fd24fec591eb649b473dd50506c7ee79d7",
+        tracking: "none",
+        trackingDetails: privacyStatement.getblock,
+      },
+	  {
+        url: "https://rpc.tenderly.co/fork/f93899f1-ca78-45ef-82c8-fa884400bc67",
+        tracking: "none",
+         trackingDetails: privacyStatement.getblock,
+      },    
       {
         url:
           "https://eth-mainnet.nodereal.io/v1/1659dfb40aa24bbb8153a677b98064d7",
